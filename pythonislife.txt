@@ -4,3 +4,4 @@ Interact with active python communities
 Engage in competitiion.
 Teach others
 Create a blog for python and projects
+pyhthonverse blog
